@@ -1,6 +1,6 @@
 # CampusDualExport
 
-> the following quick and dirty script is provided "as-is" with no support or security affirmations.
+> the following quick and dirty script is provided "as-is" with no support, further development or security affirmations.
 > Only use it if you know what it does.
 
 ## How to use:
