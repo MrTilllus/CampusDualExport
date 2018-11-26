@@ -9,7 +9,7 @@
 3. press F12 to show developer console
 4. switch to "Network"
 5. find your calendar-json request url
-![](https://github.com/VinzSpring/CampusDualExport/blob/master/howto.PNG)
+![](https://github.com/VinzSpring/CampusDualExport/blob/master/howto.jpg)
 6. write a python script to export data into calendar app readable .csv
 
 ```
