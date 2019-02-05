@@ -81,4 +81,4 @@ METHOD:PUBLISH"""
 
 
 if __name__ == '__main__':
-    export_to_ics("./ioskalender.ics", "https://selfservice.campus-dual.de/room/json?userid=3003645&hash=120cc9f859896523607e8bbae270a4f3&start=1548630000&end=1549234800&_=1548671664260")
+    export_to_ics("./ioskalender.ics", "[Insert your Link]")
